@@ -17,7 +17,7 @@ Tableau for visualization
 SQL (CTEs, subqueries, joins, aggregation)
 
 <h2>Steps Taken</h2>
-I Cleaned the dataset
+I cleaned the dataset
 Queried the database to analyze movie rentals, customer locations, and revenue patterns.
 Identified top-performing movies based on rental frequency and revenue.
 Mapped customer concentration by region and city.

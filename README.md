@@ -13,6 +13,7 @@ Dataset was sourced and provided by CareerFoundry
 PostgreSQL database (via pgAdmin 4)
 
 Tableau for visualization
+
 SQL (CTEs, subqueries, joins, aggregation)
 
 <h2>Steps Taken</h2>

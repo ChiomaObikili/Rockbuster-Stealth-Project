@@ -10,11 +10,10 @@ Data Analyst – I conducted exploratory and descriptive analysis using SQL and 
 <h2>Data Source</h2>
 Dataset was sourced and provided by CareerFoundry
 <h2>Tools Used</h2>
-PostgreSQL database (via pgAdmin 4), 
+PostgreSQL database (via pgAdmin 4)
 
-Tableau for visualization,
-
-SQL (CTEs, subqueries, joins, aggregation),
+Tableau for visualization
+SQL (CTEs, subqueries, joins, aggregation)
 
 <h2>Steps Taken</h2>
 I Cleaned the dataset
